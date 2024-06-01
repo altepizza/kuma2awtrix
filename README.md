@@ -1,6 +1,7 @@
 # Kuma2Awtrix
 
-This project is a bridge between Kuma and Awtrix, written in Go.
+This project is a bridge between [Uptime Kuma](https://github.com/louislam/uptime-kuma)
+and [AWTRIX 3](https://github.com/Blueforcer/awtrix3), written in Go.
 
 ## Health Check
 
